@@ -27,8 +27,8 @@
 #
 
 # Delphi compiler-generated binaries (safe to delete)
-*.exe
-*.dll
+#*.exe
+#*.dll
 *.bpl
 *.bpi
 *.dcp
@@ -67,3 +67,5 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+Images/
